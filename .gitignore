@@ -1,6 +1,10 @@
 # adding archive folder
 archive
 
+# adding large csv file
+ratings.csv
+
+
 # adding config
 config.py
 
